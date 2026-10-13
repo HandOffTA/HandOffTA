@@ -20,7 +20,7 @@ If a hiring task is repetitive, inconsistent, or eats up your afternoon, I'm pro
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects in Flight
 
 | Project | What It Does | Built With |
 |---|---|---|
