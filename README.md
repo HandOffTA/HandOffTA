@@ -25,15 +25,15 @@ If a hiring task is repetitive, inconsistent, or eats up your afternoon, I'm pro
 | Project | What It Does | Built With |
 |---|---|---|
 | [Boolean String Builder](https://github.com/HandOffTA/boolean-string-builder) | Paste a job description and get LinkedIn, Google X-ray, and GitHub search strings. | Claude API / Claude Skill |
-| [Comp Range Sanity Checker](https://github.com/HandOffTA/comp-range-sanity-checker) | Enter a role and location and get a pay range from public BLS data, with a confidence note. | Google Apps Script / Zapier + BLS API |
-| [Interview Scorecard Skill](https://github.com/HandOffTA/interview-scorecard-skill) | Turns a role's must-haves into a structured scorecard with rating anchors. | Claude Skills (Claude Code) |
-| [Rejection Message Writer](https://github.com/HandOffTA/rejection-message-writer) | Pick the stage and tone and get a kind, specific rejection note. | Claude API, Zapier |
-| [Funnel Health Dashboard](https://github.com/HandOffTA/funnel-health-dashboard) | Upload an ATS export and see time-in-stage, drop-off points, and stalled candidates. | Looker, SQL, Google Sheets + Apps Script |
-| [Screen Call Summarizer](https://github.com/HandOffTA/screen-call-summarizer) | Paste call notes and get a clean candidate summary in a consistent template. | Claude API / Claude Skill |
-| [Job Post Scorer](https://github.com/HandOffTA/job-post-scorer) | Rates a posting for readability, jargon, and exclusionary language, and suggests fixes. | Claude API |
-| [Hiring Manager Intake Form](https://github.com/HandOffTA/hiring-manager-intake-form) | A guided form that outputs a kickoff brief and a first-pass sourcing plan. | Lovable / Google Forms + Apps Script + Claude API |
-| [Offer Acceptance Risk Check](https://github.com/HandOffTA/offer-acceptance-risk-check) | Answer a few questions and get an offer risk level with talking points. | Claude API, Zapier / Lovable |
-| [Talent Market Map](https://github.com/HandOffTA/talent-market-map) | Turns a target company list into a visual map by size, location, and hiring activity. | SQL, Looker / Power BI, Apps Script |
+| [Comp Range Sanity Checker](https://github.com/HandOffTA/comp-range-sanity-checker) COMING SOON | Enter a role and location and get a pay range from public BLS data, with a confidence note. | Google Apps Script / Zapier + BLS API |
+| [Interview Scorecard Skill](https://github.com/HandOffTA/interview-scorecard-skill) COMING SOON | Turns a role's must-haves into a structured scorecard with rating anchors. | Claude Skills (Claude Code) |
+| [Rejection Message Writer](https://github.com/HandOffTA/rejection-message-writer) COMING SOON | Pick the stage and tone and get a kind, specific rejection note. | Claude API, Zapier |
+| [Funnel Health Dashboard](https://github.com/HandOffTA/funnel-health-dashboard) COMING SOON | Upload an ATS export and see time-in-stage, drop-off points, and stalled candidates. | Looker, SQL, Google Sheets + Apps Script |
+| [Screen Call Summarizer](https://github.com/HandOffTA/screen-call-summarizer) COMING SOON | Paste call notes and get a clean candidate summary in a consistent template. | Claude API / Claude Skill |
+| [Job Post Scorer](https://github.com/HandOffTA/job-post-scorer) COMING SOON | Rates a posting for readability, jargon, and exclusionary language, and suggests fixes. | Claude API |
+| [Hiring Manager Intake Form](https://github.com/HandOffTA/hiring-manager-intake-form) COMING SOON | A guided form that outputs a kickoff brief and a first-pass sourcing plan. | Lovable / Google Forms + Apps Script + Claude API |
+| [Offer Acceptance Risk Check](https://github.com/HandOffTA/offer-acceptance-risk-check) COMING SOON | Answer a few questions and get an offer risk level with talking points. | Claude API, Zapier / Lovable |
+| [Talent Market Map](https://github.com/HandOffTA/talent-market-map) COMING SOON | Turns a target company list into a visual map by size, location, and hiring activity. | SQL, Looker / Power BI, Apps Script |
 
 ---
 
