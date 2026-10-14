@@ -29,11 +29,21 @@ Built, published, and ready to use.
 | [Sourcery US](https://github.com/HandOffTA/sourcery-us) · [**Live app**](https://handoffta.github.io/sourcery-us/) | Sourcing workbench for US tech and skilled-trades recruiters: JD in, platform-specific search strings out, plus intake, string checks, and JD comparison. | HTML / JavaScript, GitHub Pages |
 | [Talent Check-In & Review](https://github.com/HandOffTA/talent-checkin-review) · [**Live demo**](https://handoffta.github.io/talent-checkin-review/) | Lightweight talent management for small People Ops teams: goals, check-ins, 1:1 prep, and calibration in one file. | HTML / JavaScript, GitHub Pages |
 | [TA Prompt Bank](https://github.com/HandOffTA/ta-prompt-bank) | 66 ready-to-run talent acquisition workflows. Describe the problem in plain language and it picks and runs the right one. | Claude Skills |
-| [Job Spec Auditor](https://github.com/HandOffTA/job-spec-auditor) | Scores a job spec out of 100, names the clauses killing the funnel, and rewrites it ready to post. | Claude Skills |
 | [Interview Pack Builder](https://github.com/HandOffTA/interview-pack-builder) | Turns an intake and job spec into the full hiring bar: competencies, screen, loop plan, questions, work sample, scorecard. | Claude Skills |
 | [Candidate Outreach Writer](https://github.com/HandOffTA/candidate-outreach-writer) | Turns an intake transcript into candidate positioning, a LinkedIn DM, and a four-touch outreach sequence. | Claude Skills |
 | [LinkedIn Profile Auditor](https://github.com/HandOffTA/linkedin-profile-auditor) | Scores a LinkedIn profile out of 50 and rewrites every section around the outcome the person wants. | Claude Skills |
 | [Boolean String Builder](https://github.com/HandOffTA/boolean-string-builder) | Paste a job description and get LinkedIn, Google X-ray, and GitHub search strings. | Claude Skills |
+
+---
+
+## 🧩 Personal Projects
+
+Things I build for myself, outside of recruiting.
+
+| Project | What It Does | Built With |
+|---|---|---|
+| [Personal Curriculum Builder](https://github.com/HandOffTA/personal-curriculum-builder) · [**Live app**](https://handoffta.github.io/personal-curriculum-builder/) | A personal learning planner. V1 live — future version adds AI course suggestions and adaptive scheduling. | HTML · JavaScript · GitHub Pages |
+| Quiet Notes (repo coming soon) | A private note-taking app with notebooks, tags, AI helpers, voice memos, link graph, and full backup. Built as a personal alternative to Evernote. | Web app · AI features |
 
 ---
 
@@ -43,6 +53,7 @@ Being built or consolidated now.
 
 | Project | What It Does | Built With |
 |---|---|---|
+| [Job Spec Auditor](https://github.com/HandOffTA/job-spec-auditor) | Scores a job spec out of 100, names the clauses killing the funnel, and rewrites it ready to post. | Claude Skills |
 | [Comp Range Sanity Checker](https://github.com/HandOffTA/comp-range-sanity-checker) | Enter a role and location and get a pay range from public BLS data, with a confidence note. | Google Apps Script / Zapier + BLS API |
 | [Interview Scorecard Skill](https://github.com/HandOffTA/interview-scorecard-skill) | Turns a role's must-haves into a structured scorecard with rating anchors. | Claude Skills (Claude Code) |
 | [Rejection Message Writer](https://github.com/HandOffTA/rejection-message-writer) | Pick the stage and tone and get a kind, specific rejection note. | Claude API, Zapier |
